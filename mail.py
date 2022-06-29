@@ -193,7 +193,7 @@ def interface():
                     m = str(randint(0,9))
                     y = str(randint(0,9))
 
-                    mail = nomes[a]+m+y+sobrenomes[b]+m+y'
+                    mail = nomes[a]+m+y+sobrenomes[b]+m+y
 
                     conta = [mail, senha]
 
